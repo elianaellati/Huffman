@@ -53,7 +53,6 @@ Example: java HuffmanDecompress output.huff decompressed.txt
 ## Display the Huffman Table :
 ![image](https://github.com/user-attachments/assets/b81fa18d-3964-4492-8fcf-476bc8f67b84)
 ## Upon clicking the Decompress button, the file is restored to its original state, and the system displays any differences between the original and decompressed files to verify accuracy.
+![image](https://github.com/user-attachments/assets/2c65a44f-c075-4d81-8e34-a3dc5cc58baa)
 
-
-- 
 
